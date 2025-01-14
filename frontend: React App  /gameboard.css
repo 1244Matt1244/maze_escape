@@ -1,0 +1,12 @@
+.game-board {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 2px;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+  background-color: lightgray;
+  border: 1px solid black;
+}
