@@ -1,4 +1,4 @@
-Here's the summarized and refined README for the **MazeEscape** project:
+Here's the updated README with your GitHub username:
 
 ```markdown
 # MazeEscape
@@ -18,7 +18,7 @@ MazeEscape is an engaging maze-based game featuring:
 ### Backend Setup
 1. Clone the repository and navigate to the `backend/` directory:
    ```bash
-   git clone https://github.com/your-username/MazeEscape.git
+   git clone https://github.com/1244Matt1244/MazeEscape.git
    cd MazeEscape/backend
    ```
 2. Build and run the backend:
@@ -52,4 +52,3 @@ Instructions for hosting on AWS, including backend deployment on Elastic Beansta
 3. Enhance the game with additional features or styling.
 
 Enjoy escaping the maze!
-```
